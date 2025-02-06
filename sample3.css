@@ -1,0 +1,14 @@
+
+.accordian{
+    --bs-accordian-btn-bg:#ffc03;
+}
+.cont1{
+    width: 300px;
+    height: 300px;
+    background-color: lightcoral;
+}
+
+.cont1:hover{
+    background-color: aqua;
+    font-size: 21px;
+}
